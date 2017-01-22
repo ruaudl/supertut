@@ -1,0 +1,15 @@
+target/
+.idea
+.idea_modules/
+*.iml
+
+.settings/
+.project
+.classpath
+*.launch
+
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
